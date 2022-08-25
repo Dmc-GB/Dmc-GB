@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dmc-GB
 - 👀 I’m interested in everything about Sysadmin/DevOps
-- 🌱 I’m currently learning System Administration
+- 🌱 I’m currently learning DevOps Engineering
 - 💞️ I’m looking to collaborate on DevOps project
 - 📫 How to reach me dmcdubled@gmail.com
 
